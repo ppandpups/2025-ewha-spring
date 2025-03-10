@@ -145,7 +145,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트명 | 멀티 모달 데이터 학습을 이용한 수요 예측도 향상  |
 | 프로젝트 브랜드 | e시크 수요 예측 |
 | 사용할 소프트웨어 | https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0016627586 |
-|만들고자 하는 것||
+|만들고자 하는 것| 멀티모달 환경에서 모달리티 누락&데이터 이질성 문제를 극복할 수 있는 아키텍처 |
 |팀그라운드룰||
 |최종수정일||
 
@@ -160,7 +160,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트 브랜드 | team329 (연구트랙이라 팀명으로 대체합니다) |
 | 사용할 소프트웨어 | https://github.com/huggingface/transformers.git<br>https://chatgpt.com/ |
 |만들고자 하는 것||
-|팀그라운드룰||
+|팀그라운드룰| https://github.com/dew1107/team329/blob/main/GroundRule.md |
 |최종수정일||
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
