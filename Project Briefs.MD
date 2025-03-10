@@ -1,15 +1,3 @@
-Selection deleted
-print('# 전체 프로젝트 리스트')
-print('|팀번호|팀명| 프로젝트|')
-print('|:---|:---|:---|')
-for i in range(40):
-    if i in content:
-        c=content[i]
-        print('|',f'[{c[0]}](#team-{c[0]})','|',c[1], '|', f'{c[4]}'.replace('\n','<br>'), '|')
-    else:
-        pass
-        #print('==== missing', i)
-
 # 전체 프로젝트 리스트
 |팀번호|팀명| 프로젝트|
 |:---|:---|:---|
