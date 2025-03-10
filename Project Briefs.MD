@@ -33,6 +33,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트명 | 교통약자를 위한 무장애 길찾기 서비스 |
 | 프로젝트 브랜드 | PathEase |
 | 사용할 소프트웨어 | https://github.com/openai/whisper<br>https://www.openstreetmap.org/<br>https://t-data.seoul.go.kr/ |
+|만들고자 하는 것||
 |팀그라운드룰||
 |최종수정일||
 
@@ -46,6 +47,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트명 | 이미지 기반 맞춤 영어 회화 학습 |
 | 프로젝트 브랜드 | PicChat |
 | 사용할 소프트웨어 | https://research.google/pubs/show-and-tell-a-neural-image-caption-generator/<br>https://cocodataset.org/#download |
+|만들고자 하는 것||
 |팀그라운드룰||
 |최종수정일||
 
@@ -59,6 +61,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트명 | 회피형 성격 극복을 위한 맞춤형 습관 형성 서비스 |
 | 프로젝트 브랜드 | HabitAI |
 | 사용할 소프트웨어 | https://openai.com/index/openai-api/<br>RAG<br>https://github.com/sloria/TextBlob - 감정 분석<br>https://github.com/HabitRPG/habitica - 습관 형성 돕는 시스템<br>https://github.com/TheoKanning/openai-java - 자바에서 GPT 사용 라이브러리 |
+|만들고자 하는 것||
 |팀그라운드룰||
 |최종수정일||
 
@@ -72,6 +75,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트명 |  [멀티모달  생성 AI] 멀티 모달리티 학습 환경에서 누락된 모달리티 데이터 생성 연구 |
 | 프로젝트 브랜드 | 미씽멀티버스 |
 | 사용할 소프트웨어 | https://huggingface.co/docs/transformers/ko/model_doc/clip<br>https://huggingface.co/docs/transformers/model_doc/flava |
+|만들고자 하는 것||
 |팀그라운드룰||
 |최종수정일||
 
@@ -85,6 +89,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트명 | Collab8 (Collaboration + 8  무한한 협업 가능성을 의미) |
 | 프로젝트 브랜드 | HiveMind (집단 지성을 발휘하는 팀 협업 공간) |
 | 사용할 소프트웨어 | 1. Surprise (Collaborative Filtering) → 협업 필터링 기반 추천 시스템 구현<br>2. spaCy (NLP Processing) → 사용자의 관심사 및 진로 목표 분석<br>3. Google Calendar API → 선배-후배 일정 동기화<br>4. LinkedIn Open Data → 실제 업계 종사자의 커리어 데이터 활용 가능<br>5. LangChain (LLM Integration) → GPT 기반 진로 추천 및 선배 Q&A 자동화 |
+|만들고자 하는 것||
 |팀그라운드룰||
 |최종수정일||
 
@@ -98,6 +103,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트명 | 뮤추얼클라우드 : 전지구적 자원의 탐색 및 분권형 관리의 필요성 |
 | 프로젝트 브랜드 | 반효경 교수님 |
 | 사용할 소프트웨어 | https://github.com/nextcloud/server<br><br> |
+|만들고자 하는 것||
 |팀그라운드룰||
 |최종수정일||
 
@@ -111,6 +117,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트명 | 컨테이너 기반 AI 워크플로우 파이프라인 최적화 (CI/CD, MLOps 관점) |
 | 프로젝트 브랜드 | AIOpsLab |
 | 사용할 소프트웨어 | Docker<br>Kubernetes<br>Kubeflow<br>TensorFlow Extended (TFX) |
+|만들고자 하는 것||
 |팀그라운드룰||
 |최종수정일||
 
@@ -124,6 +131,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트명 | 클라우드 AI를 활용하여 사용자 데이터와 트래픽 분석을 통해 IT 환경 최적화를 목적으로 하는 프로그램 |
 | 프로젝트 브랜드 | (미정) |
 | 사용할 소프트웨어 | GPT-4o : https://chatgpt.com/<br>React : https://ko.legacy.reactjs.org/<br>mySQL : https://www.mysql.com/ |
+|만들고자 하는 것||
 |팀그라운드룰||
 |최종수정일||
 
@@ -137,6 +145,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트명 | 멀티 모달 데이터 학습을 이용한 수요 예측도 향상  |
 | 프로젝트 브랜드 | e시크 수요 예측 |
 | 사용할 소프트웨어 | https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0016627586 |
+|만들고자 하는 것||
 |팀그라운드룰||
 |최종수정일||
 
@@ -150,6 +159,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트명 | Overcoming Missing Modalities with Clustering: A Cross-Attention and Federated Learning Approach |
 | 프로젝트 브랜드 | team329 (연구트랙이라 팀명으로 대체합니다) |
 | 사용할 소프트웨어 | https://github.com/huggingface/transformers.git<br>https://chatgpt.com/ |
+|만들고자 하는 것||
 |팀그라운드룰||
 |최종수정일||
 
@@ -163,6 +173,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트명 | 일정 관리가 어려운 사람들을 위한 개인 맞춤 대학 생활 AI 비서 |
 | 프로젝트 브랜드 | 위드미 |
 | 사용할 소프트웨어 | 생성형 AI API OpenAI GPT API(GPT-4o mini) https://chatgpt.com/ |
+|만들고자 하는 것||
 |팀그라운드룰||
 |최종수정일||
 
@@ -176,6 +187,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트명 | AI 기반 문서 분석 기술을 통해 계약서의 중요한 조항을 자동 추출하고, 사용자가 쉽게 이해할 수 있도록 제공하는 서비스 |
 | 프로젝트 브랜드 | DocSense |
 | 사용할 소프트웨어 | 자연어 처리(NLP) - NLTK (https://www.nltk.org/)<br>AI - LexNLP (https://github.com/LexPredict/lexpredict-lexnlp)<br>맞춤 학습 - RAG |
+|만들고자 하는 것||
 |팀그라운드룰||
 |최종수정일||
 
@@ -189,6 +201,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트명 | 연합 학습(Federated Learning) 환경에서 이질적인 데이터 학습을 통해 로컬에 특화된 학습 모델과 일반적인 추론을 위한 학습 모델 비교 |
 | 프로젝트 브랜드 |  |
 | 사용할 소프트웨어 | NVIDIA FLARE https://nvflare.readthedocs.io/en/main/flare_overview.html<br>FLOWER https://flower.ai/docs/framework/tutorial-series-get-started-with-flower-pytorch.html<br>Substra https://github.com/Substra/substra/tree/main/docs |
+|만들고자 하는 것||
 |팀그라운드룰||
 |최종수정일||
 
@@ -202,6 +215,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트명 | 채용 데이터 분석과 자연어 처리 기술을 활용하여 이력서 문장을 최적화하고 구직자와 기업을 자동으로 연결해주는 AI 기반 채용 지원 플랫폼 |
 | 프로젝트 브랜드 | JobBridge |
 | 사용할 소프트웨어 | https://platform.openai.com/docs/guides/gpt<br>https://github.com/saadq/resumake<br>https://github.com/mozilla/pdf.js<br>https://github.com/UKPLab/sentence-transformers<br>https://github.com/deepset-ai/haystack |
+|만들고자 하는 것||
 |팀그라운드룰||
 |최종수정일||
 
@@ -215,6 +229,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트명 | 이미지 기반 상품 검색 및 추천  |
 | 프로젝트 브랜드 | 핏서치 |
 | 사용할 소프트웨어 | React Native: https://reactnative.dev<br>springboot: https://spring.io/projects/spring-boot<br>mysql: https://www.mysql.com<br>docker: https://www.docker.com |
+|만들고자 하는 것||
 |팀그라운드룰||
 |최종수정일||
 
@@ -228,6 +243,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트명 | AI 기반 예술 작품 해설 서비스 |
 | 프로젝트 브랜드 | 내 손 안의 큐레이터 |
 | 사용할 소프트웨어 | https://github.com/openai/CLIP |
+|만들고자 하는 것||
 |팀그라운드룰||
 |최종수정일||
 
@@ -241,6 +257,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트명 | BuddyEdu: 영유아를 위한 정서 지원 및 기초 교육 프로그램 |
 | 프로젝트 브랜드 | BuddyEdu |
 | 사용할 소프트웨어 | https://i-nuri.go.kr/main/board/index.do?manage_idx=97&menu_idx=246<br>starfall.com<br>moodle.org |
+|만들고자 하는 것||
 |팀그라운드룰||
 |최종수정일||
 
@@ -254,6 +271,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트명 | 퀀트 기반 알고리즘 투자 자동화 서비스 |
 | 프로젝트 브랜드 | 스파이코 |
 | 사용할 소프트웨어 | https://github.com/quantconnect/Lean |
+|만들고자 하는 것||
 |팀그라운드룰||
 |최종수정일||
 
@@ -267,6 +285,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트명 | AI를 기반으로 하여 사용자의 가용 시간 및 예산을 고려하여 여행 일정을 추천해주는 서비스 |
 | 프로젝트 브랜드 | OTK |
 | 사용할 소프트웨어 | https://developers.google.com/maps?hl=ko |
+|만들고자 하는 것||
 |팀그라운드룰||
 |최종수정일||
 
@@ -280,6 +299,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트명 | 공모주 추천 |
 | 프로젝트 브랜드 |  |
 | 사용할 소프트웨어 | https://github.com/tensorflow/tensorflow (TensorFlow)<br>https://github.com/plotly/dash (데이터 시각화)<br> https://github.com/mrjbq7/ta-lib (TA-Lib)<br> https://github.com/pmorissette/ffn (Ffn) |
+|만들고자 하는 것||
 |팀그라운드룰||
 |최종수정일||
 
@@ -293,6 +313,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트명 | AI를 기반으로 사용자가 보유한 가상화폐를 해커로부터 보호하기 위해 이중 보안 체계를 적용하는 지갑 솔루션 |
 | 프로젝트 브랜드 | Virtual Wallet |
 | 사용할 소프트웨어 | https://github.com/safe-global/safe-smart-account<br>https://docs.aws.amazon.com/kms/latest/developerguide/overview.html |
+|만들고자 하는 것||
 |팀그라운드룰||
 |최종수정일||
 
@@ -306,6 +327,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트명 | OCR과 AI를 활용한 20대의 과소비 방지를 위한 소비 패턴 분석 및 소비 습관 코칭 서비스 |
 | 프로젝트 브랜드 | TETS (Too Easy to Spend) |
 | 사용할 소프트웨어 | [Matplotlib] https://matplotlib.org/<br>]Teseract OCR] https://github.com/tesseract-ocr/tesseract |
+|만들고자 하는 것||
 |팀그라운드룰||
 |최종수정일||
 
