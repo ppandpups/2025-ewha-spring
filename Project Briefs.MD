@@ -264,4 +264,4 @@
 | 프로젝트 브랜드 | TETS (Too Easy to Spend) |
 | 사용할 소프트웨어 | [Matplotlib] https://matplotlib.org/<br>]Teseract OCR] https://github.com/tesseract-ocr/tesseract |
 
-  [Return Top](# Spring 2025, 전체 프로젝트 리스트)
+  [Return Top](# Spring-2025,-전체-프로젝트-리스트)
