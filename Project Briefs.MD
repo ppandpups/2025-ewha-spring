@@ -33,7 +33,7 @@
 | 프로젝트 브랜드 | PathEase |
 | 사용할 소프트웨어 | https://github.com/openai/whisper<br>https://www.openstreetmap.org/<br>https://t-data.seoul.go.kr/ |
 
-  [Return Top](#Spring 2025, 전체 프로젝트 리스트)
+  [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 4
 |항목|내용|
 |---|---|
@@ -44,7 +44,7 @@
 | 프로젝트 브랜드 | PicChat |
 | 사용할 소프트웨어 | https://research.google/pubs/show-and-tell-a-neural-image-caption-generator/<br>https://cocodataset.org/#download |
 
-  [Return Top](#Spring 2025, 전체 프로젝트 리스트)
+  [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 6
 |항목|내용|
 |---|---|
@@ -55,7 +55,7 @@
 | 프로젝트 브랜드 | HabitAI |
 | 사용할 소프트웨어 | https://openai.com/index/openai-api/<br>RAG<br>https://github.com/sloria/TextBlob - 감정 분석<br>https://github.com/HabitRPG/habitica - 습관 형성 돕는 시스템<br>https://github.com/TheoKanning/openai-java - 자바에서 GPT 사용 라이브러리 |
 
-  [Return Top](#Spring 2025, 전체 프로젝트 리스트)
+  [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 7
 |항목|내용|
 |---|---|
@@ -66,7 +66,7 @@
 | 프로젝트 브랜드 | 미씽멀티버스 |
 | 사용할 소프트웨어 | https://huggingface.co/docs/transformers/ko/model_doc/clip<br>https://huggingface.co/docs/transformers/model_doc/flava |
 
-  [Return Top](#Spring 2025, 전체 프로젝트 리스트)
+  [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 8
 |항목|내용|
 |---|---|
@@ -77,7 +77,7 @@
 | 프로젝트 브랜드 | HiveMind (집단 지성을 발휘하는 팀 협업 공간) |
 | 사용할 소프트웨어 | 1. Surprise (Collaborative Filtering) → 협업 필터링 기반 추천 시스템 구현<br>2. spaCy (NLP Processing) → 사용자의 관심사 및 진로 목표 분석<br>3. Google Calendar API → 선배-후배 일정 동기화<br>4. LinkedIn Open Data → 실제 업계 종사자의 커리어 데이터 활용 가능<br>5. LangChain (LLM Integration) → GPT 기반 진로 추천 및 선배 Q&A 자동화 |
 
-  [Return Top](#Spring 2025, 전체 프로젝트 리스트)
+  [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 9
 |항목|내용|
 |---|---|
@@ -88,7 +88,7 @@
 | 프로젝트 브랜드 | 반효경 교수님 |
 | 사용할 소프트웨어 | https://github.com/nextcloud/server<br><br> |
 
-  [Return Top](#Spring 2025, 전체 프로젝트 리스트)
+  [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 11
 |항목|내용|
 |---|---|
@@ -99,7 +99,7 @@
 | 프로젝트 브랜드 | AIOpsLab |
 | 사용할 소프트웨어 | Docker<br>Kubernetes<br>Kubeflow<br>TensorFlow Extended (TFX) |
 
-  [Return Top](#Spring 2025, 전체 프로젝트 리스트)
+  [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 12
 |항목|내용|
 |---|---|
@@ -110,7 +110,7 @@
 | 프로젝트 브랜드 | (미정) |
 | 사용할 소프트웨어 | GPT-4o : https://chatgpt.com/<br>React : https://ko.legacy.reactjs.org/<br>mySQL : https://www.mysql.com/ |
 
-  [Return Top](#Spring 2025, 전체 프로젝트 리스트)
+  [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 13
 |항목|내용|
 |---|---|
@@ -121,7 +121,7 @@
 | 프로젝트 브랜드 | e시크 수요 예측 |
 | 사용할 소프트웨어 | https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0016627586 |
 
-  [Return Top](#Spring 2025, 전체 프로젝트 리스트)
+  [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 14
 |항목|내용|
 |---|---|
@@ -132,7 +132,7 @@
 | 프로젝트 브랜드 | team329 (연구트랙이라 팀명으로 대체합니다) |
 | 사용할 소프트웨어 | https://github.com/huggingface/transformers.git<br>https://chatgpt.com/ |
 
-  [Return Top](#Spring 2025, 전체 프로젝트 리스트)
+  [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 15
 |항목|내용|
 |---|---|
@@ -143,7 +143,7 @@
 | 프로젝트 브랜드 | 위드미 |
 | 사용할 소프트웨어 | 생성형 AI API OpenAI GPT API(GPT-4o mini) https://chatgpt.com/ |
 
-  [Return Top](#Spring 2025, 전체 프로젝트 리스트)
+  [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 16
 |항목|내용|
 |---|---|
@@ -154,7 +154,7 @@
 | 프로젝트 브랜드 | DocSense |
 | 사용할 소프트웨어 | 자연어 처리(NLP) - NLTK (https://www.nltk.org/)<br>AI - LexNLP (https://github.com/LexPredict/lexpredict-lexnlp)<br>맞춤 학습 - RAG |
 
-  [Return Top](#Spring 2025, 전체 프로젝트 리스트)
+  [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 17
 |항목|내용|
 |---|---|
@@ -165,7 +165,7 @@
 | 프로젝트 브랜드 |  |
 | 사용할 소프트웨어 | NVIDIA FLARE https://nvflare.readthedocs.io/en/main/flare_overview.html<br>FLOWER https://flower.ai/docs/framework/tutorial-series-get-started-with-flower-pytorch.html<br>Substra https://github.com/Substra/substra/tree/main/docs |
 
-  [Return Top](#Spring 2025, 전체 프로젝트 리스트)
+  [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 18
 |항목|내용|
 |---|---|
@@ -176,7 +176,7 @@
 | 프로젝트 브랜드 | JobBridge |
 | 사용할 소프트웨어 | https://platform.openai.com/docs/guides/gpt<br>https://github.com/saadq/resumake<br>https://github.com/mozilla/pdf.js<br>https://github.com/UKPLab/sentence-transformers<br>https://github.com/deepset-ai/haystack |
 
-  [Return Top](#Spring 2025, 전체 프로젝트 리스트)
+  [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 19
 |항목|내용|
 |---|---|
@@ -187,7 +187,7 @@
 | 프로젝트 브랜드 | 핏서치 |
 | 사용할 소프트웨어 | React Native: https://reactnative.dev<br>springboot: https://spring.io/projects/spring-boot<br>mysql: https://www.mysql.com<br>docker: https://www.docker.com |
 
-  [Return Top](#Spring 2025, 전체 프로젝트 리스트)
+  [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 20
 |항목|내용|
 |---|---|
@@ -198,7 +198,7 @@
 | 프로젝트 브랜드 | 내 손 안의 큐레이터 |
 | 사용할 소프트웨어 | https://github.com/openai/CLIP |
 
-  [Return Top](#Spring 2025, 전체 프로젝트 리스트)
+  [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 21
 |항목|내용|
 |---|---|
@@ -209,7 +209,7 @@
 | 프로젝트 브랜드 | BuddyEdu |
 | 사용할 소프트웨어 | https://i-nuri.go.kr/main/board/index.do?manage_idx=97&menu_idx=246<br>starfall.com<br>moodle.org |
 
-  [Return Top](#Spring 2025, 전체 프로젝트 리스트)
+  [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 22
 |항목|내용|
 |---|---|
@@ -220,7 +220,7 @@
 | 프로젝트 브랜드 | 스파이코 |
 | 사용할 소프트웨어 | https://github.com/quantconnect/Lean |
 
-  [Return Top](#Spring 2025, 전체 프로젝트 리스트)
+  [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 24
 |항목|내용|
 |---|---|
@@ -231,7 +231,7 @@
 | 프로젝트 브랜드 | OTK |
 | 사용할 소프트웨어 | https://developers.google.com/maps?hl=ko |
 
-  [Return Top](#Spring 2025, 전체 프로젝트 리스트)
+  [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 25
 |항목|내용|
 |---|---|
@@ -242,7 +242,7 @@
 | 프로젝트 브랜드 |  |
 | 사용할 소프트웨어 | https://github.com/tensorflow/tensorflow (TensorFlow)<br>https://github.com/plotly/dash (데이터 시각화)<br> https://github.com/mrjbq7/ta-lib (TA-Lib)<br> https://github.com/pmorissette/ffn (Ffn) |
 
-  [Return Top](#Spring 2025, 전체 프로젝트 리스트)
+  [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 27
 |항목|내용|
 |---|---|
@@ -253,7 +253,7 @@
 | 프로젝트 브랜드 | Virtual Wallet |
 | 사용할 소프트웨어 | https://github.com/safe-global/safe-smart-account<br>https://docs.aws.amazon.com/kms/latest/developerguide/overview.html |
 
-  [Return Top](#Spring 2025, 전체 프로젝트 리스트)
+  [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 28
 |항목|내용|
 |---|---|
