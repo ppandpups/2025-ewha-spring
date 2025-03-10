@@ -1,4 +1,4 @@
-# Spring 2025, 전체 프로젝트 리스트
+# 전체 프로젝트 리스트
 |팀번호|팀명| 프로젝트명|브랜드명|
 |:---|:---|:---|:---|
 | [3](#team-3) | 노페인 노게인 | 교통약자를 위한 무장애 길찾기 서비스 | PathEase |
@@ -264,4 +264,4 @@
 | 프로젝트 브랜드 | TETS (Too Easy to Spend) |
 | 사용할 소프트웨어 | [Matplotlib] https://matplotlib.org/<br>]Teseract OCR] https://github.com/tesseract-ocr/tesseract |
 
-  [Return Top](# Spring-2025,-전체-프로젝트-리스트)
+  [Return Top](# 전체-프로젝트-리스트)
