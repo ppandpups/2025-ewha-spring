@@ -173,9 +173,9 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트명 | 일정 관리가 어려운 사람들을 위한 개인 맞춤 대학 생활 AI 비서 |
 | 프로젝트 브랜드 | 위드미 |
 | 사용할 소프트웨어 | 생성형 AI API OpenAI GPT API(GPT-4o mini) https://chatgpt.com/ |
-|만들고자 하는 것||
-|팀그라운드룰||
-|최종수정일||
+|만들고자 하는 것|| 일정 관리 개인 맞춤 서비스 어플리케이션
+|팀그라운드룰|| https://github.com/innoxo/TEAM-GRAD/blob/main/Ground_Rule.MD
+|최종수정일|| 2025-03-10
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 16
