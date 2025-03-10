@@ -1,3 +1,15 @@
+Selection deleted
+print('# 전체 프로젝트 리스트')
+print('|팀번호|팀명| 프로젝트|')
+print('|:---|:---|:---|')
+for i in range(40):
+    if i in content:
+        c=content[i]
+        print('|',f'[{c[0]}](#team-{c[0]})','|',c[1], '|', f'{c[4]}'.replace('\n','<br>'), '|')
+    else:
+        pass
+        #print('==== missing', i)
+
 # 전체 프로젝트 리스트
 |팀번호|팀명| 프로젝트|
 |:---|:---|:---|
@@ -23,4 +35,3 @@
 | [25](#team-25) | 치킨먹기 | 리액트, 스프링부트, 도커 |
 | [27](#team-27) | 용용 | 이중서명, TSS,  MPC |
 | [28](#team-28) | e스타트 | OCR, AI, 데이터분석 |
-|:---|:---|:---|
