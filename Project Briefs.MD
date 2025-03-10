@@ -160,7 +160,7 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에 확인해주세요.
 | 프로젝트 브랜드 | team329 (연구트랙이라 팀명으로 대체합니다) |
 | 사용할 소프트웨어 | https://github.com/huggingface/transformers.git<br>https://chatgpt.com/ |
 |만들고자 하는 것||
-|팀그라운드룰||
+|팀그라운드룰| https://github.com/dew1107/team329/blob/main/GroundRule.md |
 |최종수정일||
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
